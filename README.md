@@ -12,4 +12,4 @@ The goal was to design a **complete YouTube content package** using prompt engin
 - Documentation of **tools used** and **workflow**
 
 ### 🔗 Final Video
-[Watch here](https://drive.google.com/file/d/1n-AN82IG-Q37Rqk-q4Pt9Vsd4SzRlUcZ/view?usp=sharing) 
+[Watch here](https://drive.google.com/file/d/1n-AN82IG-Q37Rqk-q4Pt9Vsd4SzRlUcZ/view?usp=sharing](https://drive.google.com/file/d/1ZvnSR8R8NJUoa-ey7oTdvwrN1GreY4dr/view?usp=sharing) 
